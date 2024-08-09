@@ -1,0 +1,14 @@
+2024-08-09 18:28:44,441:INFO:Data loaded successfully.
+2024-08-09 18:28:44,441:INFO:X shape: (1949, 8)
+2024-08-09 18:28:44,441:INFO:y shape: (1949,)
+2024-08-09 18:28:44,443:INFO:Data split into training and test sets.
+2024-08-09 18:28:44,443:INFO:X_train shape: (1559, 8)
+2024-08-09 18:28:44,443:INFO:X_test shape: (390, 8)
+2024-08-09 18:28:44,443:INFO:y_train shape: (1559,)
+2024-08-09 18:28:44,443:INFO:y_test shape: (390,)
+2024-08-09 18:28:44,447:INFO:Data standardized using StandardScaler.
+2024-08-09 19:08:31,935:INFO:Model fine-tuning completed.
+2024-08-09 19:08:48,224:INFO:Accuracy Score: 36.67%
+2024-08-09 19:08:48,224:INFO:Precision Score: 36.67%
+2024-08-09 19:08:48,224:INFO:Recall Score: 100.00%
+2024-08-09 19:08:48,225:INFO:F1 Score: 53.66%
